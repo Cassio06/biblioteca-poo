@@ -53,10 +53,10 @@ As instruções de execução serão adicionadas quando a estrutura inicial esti
 
 ## Equipe
 
-- Cezar Gabriel
-- Arthur
-- Lukas
-- Cássio
+- Cezar Gabriel de Souza Vicente Mendes
+- Artur Henrique Da Silva Alencar
+- Lukas Souza Melo
+- Cássio Filipe Meireles De Carvalho Braga
 
 Todos os integrantes participarão do desenvolvimento, da documentação e da apresentação. As responsabilidades serão registradas conforme a divisão acordada pelo grupo.
 
