@@ -1,15 +1,16 @@
 # Roteiro do Relatório Final e Apresentação — Trabalho da P2
 
 > **Instruções de Entrega (conforme `Trabalho P2.pdf`):**
-> - O relatório final deve ser entregue em formato **PDF** no dia anterior à apresentação (**23 e 26 de novembro**).
+> - O relatório final deve ser entregue em formato **PDF** no dia anterior à apresentação (apresentações nos dias **23 e 26 de novembro**, conforme cronograma).
 > - Extensão mínima exigida: **4 páginas**.
 > - Este arquivo serve como esqueleto/template para a redação do documento final da equipe.
+> - A seção 6 do edital (6.1 a 6.5) descreve a **apresentação oral**; seus tópicos foram incluídos aqui como roteiro, junto com os itens obrigatórios do relatório (seção 8).
 
 ---
 
 ## 1. Identificação da Equipe
 
-- **Instituição:** iCEV — Instituto de Ensino Superior
+- **Instituição:** *(a preencher)*
 - **Disciplina:** Programação Orientada a Objetos (Trabalho da P2)
 - **Tema atribuído:** S10a — Gestão de Consultoria (“Planilha Certa”)
 - **Integrantes:**
@@ -50,6 +51,9 @@
   - **Polimorfismo:** Como descontos, prioridades e relatórios personalizados foram tratados polimorficamente.
 - **Classe de Destaque (Obrigatório no Relatório):**
   - *Inserir aqui o trecho de código ou captura de tela (screenshot) de uma classe considerada importante no projeto e explicar seu funcionamento.*
+
+### 4.1 Demonstração Prática do Sistema (Seção 6.3 — apresentação)
+- *Roteiro de demonstração com exemplos reais: cadastro de cliente VIP e Regular → criação de contrato/projeto → alocação automática de consultor → avanço/atraso de etapas e progresso → faturamento com descontos e pontos → relatório de desempenho (console/PDF) com recomendações.*
 
 ---
 
