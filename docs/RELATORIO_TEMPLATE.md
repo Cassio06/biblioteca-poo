@@ -10,7 +10,7 @@
 
 ## 1. Identificação da Equipe
 
-- **Instituição:** *(a preencher)*
+- **Instituição:** iCEV — Instituto de Ensino Superior
 - **Disciplina:** Programação Orientada a Objetos (Trabalho da P2)
 - **Tema atribuído:** S10a — Gestão de Consultoria (“Planilha Certa”)
 - **Integrantes:**
