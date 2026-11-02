@@ -1,6 +1,6 @@
 # Planilha Certa — Sistema de Gestão de Consultoria (POO)
 
-Sistema de gerenciamento de consultoria empresarial em Java, desenvolvido como projeto acadêmico da disciplina de **Programação Orientada a Objetos (P2)** do **iCEV — Instituto de Ensino Superior**.
+Sistema de gerenciamento de consultoria empresarial em Java, desenvolvido como projeto acadêmico da disciplina de **Programação Orientada a Objetos** (Trabalho da P2).
 
 > **Nota sobre o repositório:** O projeto foi inicialmente esboçado com o tema genérico de Biblioteca e atualizado para atender ao enunciado oficial sorteado/atribuído à equipe: **S10a — Gestão de Consultoria ("Planilha Certa")**.
 
@@ -99,7 +99,7 @@ biblioteca-poo/
 
 ## Tecnologias e Decisões Técnicas
 
-- **Linguagem:** Java (JDK 17+ recomendado).
+- **Linguagem:** Java. *(Versão do JDK a ser definida pelo grupo — sugestão: JDK 17 LTS ou superior. O edital não exige versão específica.)*
 - **Persistência:** Arquivos locais (`CSV`, `JSON` ou `TXT`) armazenados no diretório [`data/`](data/).
   - *Desafio extra opcional:* sincronização/armazenamento dos arquivos de dados no Google Drive.
 - **Relatórios:** Saída formatada no console e recomendação de uso da biblioteca **iText** para exportação em PDF.
@@ -112,14 +112,14 @@ biblioteca-poo/
 > ⚠️ *O código-fonte ainda não foi implementado. As instruções abaixo representam o fluxo previsto quando o desenvolvimento for iniciado.*
 
 1. **Pré-requisitos:**
-   - Java JDK 17 ou superior instalado.
+   - Java JDK instalado (versão a confirmar pelo grupo; sugestão: 17 ou superior).
    - Git instalado.
 2. **Configuração de ambiente (opcional):**
    - Copie o arquivo `.env.example` para `.env` caso utilize credenciais externas (como API do Google Drive).
 3. **Compilação e execução (prevista):**
    ```bash
    # Compilar os arquivos Java (quando implementados)
-   javac -d out src/main/java/br/com/planilhacerta/**/*.java
+   javac -d out $(find src/main/java -name "*.java")
 
    # Executar a aplicação principal
    java -cp out br.com.planilhacerta.Main
@@ -160,7 +160,16 @@ O desenvolvimento está organizado em branches individuais a partir da `main`, g
 
 ## Entregas Acadêmicas e Cronograma
 
-- **Datas das apresentações:** **23 e 26 de novembro** (conforme cronograma divulgado pelo professor).
-- **Entrega no dia anterior à apresentação:**
+- **Datas das apresentações:** **23 e 26 de novembro** (cada grupo apresenta na data designada no cronograma a ser divulgado previamente).
+- **Entrega no dia anterior à apresentação** (apenas):
   1. **Código-fonte do projeto** neste repositório Git com instruções de execução atualizadas no `README.md`.
   2. **Relatório final em PDF** (mínimo de 4 páginas), cujo roteiro base está preparado em [`docs/RELATORIO_TEMPLATE.md`](docs/RELATORIO_TEMPLATE.md).
+- Não é necessário entregar executável binário — apenas código-fonte e relatório.
+- **Tamanho do grupo:** individual ou até no máximo 5 pessoas.
+- **Envio da composição do grupo:** `samuel.oliveira@grupocev.com`.
+
+### Dimensões Avaliadas
+
+Código · Abstrações OO · Completude e Corretude Funcional · Tratamento de Erros · Diferencial do Projeto · Avaliação Individual · Trabalho em Grupo · Defesa Oral.
+
+Critérios detalhados no edital: estrutura e design do código (modularidade, coesão, acoplamento), implementação dos requisitos funcionais, funcionalidades adicionais e criatividade, qualidade do código e boas práticas (nomenclatura, comentários, **testes**, padrões) e tratamento de erros.
