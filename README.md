@@ -1,6 +1,6 @@
 # Planilha Certa — Sistema de Gestão de Consultoria (POO)
 
-Sistema de gerenciamento de consultoria empresarial em Java, desenvolvido como projeto acadêmico da disciplina de **Programação Orientada a Objetos** (Trabalho da P2).
+Sistema de gerenciamento de consultoria empresarial em Java, desenvolvido como projeto acadêmico da disciplina de **Programação Orientada a Objetos** (Trabalho da P2) do **iCEV — Instituto de Ensino Superior**.
 
 > **Nota sobre o repositório:** O projeto foi inicialmente esboçado com o tema genérico de Biblioteca e atualizado para atender ao enunciado oficial sorteado/atribuído à equipe: **S10a — Gestão de Consultoria ("Planilha Certa")**.
 
